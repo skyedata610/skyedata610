@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Skye (@skyedata610)
 
-<!--
-**skyedata610/skyedata610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer based in Zurich. Currently building internal tooling and interface experiments at Creative Lab.
 
-Here are some ideas to get you started:
+### What I'm up to
+- Making small, focused web utilities and developer tools.
+- Tinkering with local-first architectures and SQLite sync patterns.
+- Trying to finish old side projects before starting new ones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core toolbox
+- **Frontend:** React, TypeScript, HTML/CSS
+- **Backend:** Node.js, Express
+- **Data:** SQLite, better-sqlite3
+
+### Connect
+- Open an issue or start a discussion on any repo.
+- Always open to chat about web standards, minimalist tooling, or dev ergonomics.
